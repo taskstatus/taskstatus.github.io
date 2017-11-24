@@ -27,6 +27,7 @@ Deliverable:
       * Location Redirect: Marker,
       * Map: OBD Map 1
     * USE LOGIN CREDs: Usr1, Pwd1 for the database and the wordpress when submitting
+    * SEND RESPONSES TO: recruiting@smop.io
  
 Pet Code:
 ```javascript
