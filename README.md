@@ -15,7 +15,7 @@ Task:
   * Right now, the app’s data is not transferred to the website automatically. Automate data delivery from the app’s database to the website.
  
 Deliverable:
-  * JavaScript Call to SQL DB:
+  * JavaScript Call to SQL DB @ IP = 123.45.67.89:1444:
     * Table named T,
     * Retrieve all DB entries
   * JavaScript Call to WP:
@@ -26,14 +26,15 @@ Deliverable:
       * Marker Category,
       * Location Redirect: Marker,
       * Map: OBD Map 1
-    * Login Creds: Usr1, Pwd1
+    * USE LOGIN CREDs: Usr1, Pwd1 for the database and the wordpress when submitting
  
 Pet Code:
 ```javascript
   //[none] This will be implemented as a standalone NODE.js JavaScript Script.
+  //We recommend using dummy data and a dummy Wordpress to test your script.
 ``` 
 
 Extra Info:
-  * This task’s bounty is set at $60. Work quickly because many other people are working at the same time as you! We expect this to take roughly 3 to 4 hours, but it will be open as long as it takes you guys to complete. We will send updates periodically.
+  * Work quickly because many other people are working at the same time as you! We expect this to take roughly 3 to 4 hours, but it will be open as long as it takes our coders to complete. We will send updates periodically.
   
 ** *direct questions to recruiting@smop.io* **
