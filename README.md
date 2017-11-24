@@ -32,7 +32,7 @@ Deliverable:
 Pet Code:
 ```javascript
   //[none] This will be implemented as a standalone NODE.js JavaScript Script.
-  //We recommend using dummy data and a dummy Wordpress to test your script.
+  //We recommend using dummy data and a dummy WordPress site to test your script.
 ``` 
 
 Extra Info:
