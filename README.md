@@ -1,4 +1,4 @@
-<img src="taskstatus.github.io/smopblack.png" alt="Drawing" style="width: 20%; height: 20%; margin:auto;"/>
+<img src="taskstatus.github.io/smopblack.png" alt="logo" style="width: 20%; height: 20%; margin:auto; display: block;"/>
 
 # This is the status of the 1 Billion Drops Task
 * Task Status: <span style="color:#405575">**IN PROGRESS**</span>
