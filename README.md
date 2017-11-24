@@ -1,13 +1,6 @@
 <img src="taskstatus.github.io/smopblack.png" alt="logo" style="width: 20%; height: 20%; margin:auto; display: block;"/>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107040958-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-107040958-2');
-</script>
-
+<script window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-107040958-2'); </script>
 
 # This is the status of the 1 Billion Drops Task
 * Task Status: <span style="color:#405575">**IN PROGRESS**</span>
