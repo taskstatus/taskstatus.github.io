@@ -9,7 +9,7 @@
 * Number Responses Checked: 0
 
 Task Introduction:
-  * 1BillionDrops is a company that is committed to facilitating the transfer of information in the humanitarian aid world needed to further help the communities they’re working with. They do so with an app where a humanitarian aid worker or a person in need can post the type of aid needed at a certain location. This is then viewable by anyone using the app or website.
+  * 1 Billion Drops is a company that is committed to facilitating the transfer of information in the humanitarian aid world needed to further help the communities they’re working with. They do so with an app where a humanitarian aid worker or a person in need can post the type of aid needed at a certain location. This is then viewable by anyone using the app or website.
  
 Task:
   * Right now, the app’s data is not transferred to the website automatically. Automate data delivery from the app’s database to the website.
