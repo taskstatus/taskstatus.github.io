@@ -1,4 +1,4 @@
-![alt text](taskstatus.github.io/smopblack.png "Logo" =100x100)
+![alt text](taskstatus.github.io/smopblack.png =100x100 "Logo")
 
 # This is the status of the 1 Billion Drops Task
 * Task Status: <span style="color:#405575">**IN PROGRESS**</span>
